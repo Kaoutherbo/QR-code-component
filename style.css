@@ -30,8 +30,8 @@ body{
 main{
     background-color: var(--White);
     position: relative;
-    height: 28rem;
-    width: 18rem;
+    height: 29rem;
+    width: 19.5rem;
     transform: translate(-50%,-50%);
     left: 50%;
     top: 50%;
